@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Julio Poveda, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/555/555617.svg" width="13"/> <b>Medellín, Colombia</b></p>
+<p>Welcome to my page! </br> I'm Julio Poveda, fullstack developer from <img src="https://image.flaticon.com/icons/svg/555/555617.svg" width="13"/> <b>Medellín, Colombia</b></p>
 <h3>Things I code with</h3>
 
 <p>
